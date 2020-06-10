@@ -1,0 +1,1 @@
+<h1>Galeria de estoque</h1>
